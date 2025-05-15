@@ -21,6 +21,10 @@ Unzip once downloaded.
 
 Following the Nipoppy tutorials, the data is used for different steps in the Nipoppy framework. Commands assume the Nipoppy dataset is called `my-example-study` as instructed in the Nipoppy tutorials. Instructions are given in the order they will appear in the Nipoppy tutorial series. 
 
+### ./manifest.tsv
+
+During the `nipoppy init` tutorial we will create this `manifest.tsv` file. Should you not watch this tutorial or run in any errors related to the `manifest.tsv`, you can use this one. 
+
 ### ./reorg
 
 - intented for: [`nipoppy reorg` tutorial]() 
